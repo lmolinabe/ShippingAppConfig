@@ -1,0 +1,3 @@
+#EndpointTracker
+endpoint-tracker:
+  is-enable: true
